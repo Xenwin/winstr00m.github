@@ -1,0 +1,46 @@
+body {
+    background-image: url(background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family:monospace;
+    font-size: 16px;
+}
+
+.container {
+    background-image: url(adrien-olichon-u34JNBOIQ10-unsplash.jpg);
+    height: 400px;
+    width: 600px;
+    
+    display: flex;
+    margin: 0 auto;
+    top: 50%;
+    left: 50%;
+    translate: -10% 40%;
+    box-shadow: 0 0 50px 15px #f2f4f7c9;
+    overflow:hidden;
+}
+
+
+p {
+    margin: 50px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+img {
+    float: left;
+    margin: 45px;
+    height: 250px;
+    width: 250px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+a {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: rgb(236, 225, 60);
+}
