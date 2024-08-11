@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-    background-image: url(background.jpg);
+    backdrop-filter: blur(7px);
     height: 400px;
     width: 600px;   
     display: flex;
