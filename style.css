@@ -10,8 +10,7 @@ body {
 .container {
     background-image: url(background.jpg);
     height: 400px;
-    width: 600px;
-    
+    width: 600px;   
     display: flex;
     margin: 0 auto;
     top: 50%;
